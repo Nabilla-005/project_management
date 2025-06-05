@@ -40,10 +40,11 @@ Diagram ini mencakup entitas:
    - Dapat melampirkan file (opsional)
 
 6. *Fitur Tambahan (opsional)*  
-   - Drag & Drop Kanban Board  
-   - Calendar View  
-   - Notifikasi realtime dengan Laravel Echo + Pusher  
-   - Visualisasi progress dengan Chart.js
+   - Deploy ke Heroku/Server Gratis (hindari server yang berbayar)
+   - Terdapat Proses Fetch API
+   - Implementasi dalam bentuk Kanban Board (drag and drop task)
+   - Notifikasi Realtime (Laravel echo + pusher)
+   - Visualisasi Proyek menggunakan Chart JS
 
 ---
 
