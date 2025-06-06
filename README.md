@@ -39,7 +39,7 @@ Diagram ini mencakup entitas:
    - Setiap tugas mendukung diskusi antar anggota tim
    - Dapat melampirkan file (opsional)
 
-6. *Fitur Tambahan (opsional)*  
+6. *Fitur Tambahan*  
    - Deploy ke Heroku/Server Gratis (hindari server yang berbayar)
    - Terdapat Proses Fetch API
    - Implementasi dalam bentuk Kanban Board (drag and drop task)
