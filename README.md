@@ -15,10 +15,6 @@ Diagram ini mencakup entitas:
 - *Task Assignments*
 - *Permissions* & *Roles* (menggunakan Spatie Laravel-Permission)
 
-## Tampilan Website
-
-
-
 ## 🔄 Alur Sistem
 
 1. *User Registrasi/Login*  
